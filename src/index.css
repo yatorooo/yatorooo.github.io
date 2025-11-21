@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 可选：设置全局背景色 */
+body {
+  background-color: #f8fafc;
+}
